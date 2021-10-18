@@ -1,3 +1,3 @@
 # Buscador-De-Autos
-Proyecto de practica en un curso el cual simula una base de datos, y se puede buscar autos mediante distintas categorias
+Proyecto de practica en un curso el cual simula una base de datos, y se puede buscar autos mediante distintas categorias. <br>
 Link al sitio: https://buscadordeautos1.netlify.app/
